@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Rak</h1>
 <h3 align="center">A passionate iOS Developer</h3>
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4cz3k&label=Profile%20views&color=0e75b6&style=flat" alt="r4cz3k" /> </p>
 
