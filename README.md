@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Rak</h1>
 <h3 align="center">A passionate iOS Developer</h3>
 
-- 🔭 I’m currently working on [Fuel Consumption App](https://github.com/r4cz3k/Fuel-Consumption-App)
-
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **raczek.maciek@gmail.com**
 
