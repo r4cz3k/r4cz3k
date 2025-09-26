@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Rak</h1>
-<h3 align="center">I want to become Machine Learning Engineer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently developing **Custom WordPress Themes**
 
 - 📫 How to reach me **raczek.maciek@gmail.com**
 
